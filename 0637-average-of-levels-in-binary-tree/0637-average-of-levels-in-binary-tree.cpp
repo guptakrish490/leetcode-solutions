@@ -30,7 +30,7 @@ public:
 
                 sum+=node->val;
             }
-            ans.push_back((double)sum/(double)size);
+            ans.push_back(sum/size);
         }
 
         return ans;
