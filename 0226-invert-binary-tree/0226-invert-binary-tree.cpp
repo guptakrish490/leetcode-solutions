@@ -15,12 +15,13 @@ public:
     void swap(TreeNode* root){
         if(!root) return;
 
+        swap(root->left);
+        swap(root->right);
+        
         TreeNode* tmp=root->left;
         root->left=root->right;
         root->right=tmp;
 
-        swap(root->left);
-        swap(root->right);
     }
 
     TreeNode* invertTree(TreeNode* root) {
