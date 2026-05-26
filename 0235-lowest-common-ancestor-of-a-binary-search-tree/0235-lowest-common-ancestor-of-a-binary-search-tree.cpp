@@ -10,17 +10,7 @@
 
 class Solution {
 public:
-    // TreeNode* search(TreeNode* root,int key){
-    //     if(!root)return root;
-
-    //     if(root->val==key) return root;
-
-    //     if(root->val > key) return search(root->left,key);
-    //     else return search(root->right,key);
-    // }
     
-
-
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
 
         if(!root) return NULL;
