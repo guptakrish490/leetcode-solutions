@@ -14,16 +14,13 @@ public:
     int countNodes(TreeNode* root) {
 
         if(!root) return 0;
-        int res=0;
-        int h=0;
 
         queue<TreeNode*> q;
         q.push(root);
+        vector<int> ans;
 
         while(!q.empty()){
             int size=q.size();
-            vector<int> ans;
-            h++;
             
             for(int i=0;i<size;i++){
 
@@ -34,10 +31,9 @@ public:
                 if(node->right) q.push(node->right);
 
             }
-            res=ans.size();
             
         }
 
-        return res+pow(2,h-1)-1;
+        return ans.size();
     }
 };
