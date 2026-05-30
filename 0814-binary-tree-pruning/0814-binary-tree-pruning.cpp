@@ -20,7 +20,7 @@ public:
         if(!left) root->left=nullptr;
         if(!right) root->right=nullptr;
 
-        return root->val | left | right;
+        return root->val || left || right;
     }
 
     TreeNode* pruneTree(TreeNode* root) {
