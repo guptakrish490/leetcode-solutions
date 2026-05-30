@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/guptakrish490/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/guptakrish490/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/guptakrish490/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0654-maximum-binary-tree](https://github.com/guptakrish490/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/guptakrish490/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/guptakrish490/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/guptakrish490/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/guptakrish490/leetcode-solutions/tree/master/0155-min-stack) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/guptakrish490/leetcode-solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/guptakrish490/leetcode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0654-maximum-binary-tree](https://github.com/guptakrish490/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/guptakrish490/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/guptakrish490/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0654-maximum-binary-tree](https://github.com/guptakrish490/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/guptakrish490/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/guptakrish490/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Math
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/guptakrish490/leetcode-solutions/tree/master/0148-sort-list) |
+| [0654-maximum-binary-tree](https://github.com/guptakrish490/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
 ## Merge Sort
 |  |
 | ------- |
@@ -162,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/guptakrish490/leetcode-solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/guptakrish490/leetcode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/guptakrish490/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/guptakrish490/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/guptakrish490/leetcode-solutions/tree/master/0687-longest-univalue-path) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/guptakrish490/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/guptakrish490/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -214,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/guptakrish490/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/guptakrish490/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/guptakrish490/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/guptakrish490/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/guptakrish490/leetcode-solutions/tree/master/0687-longest-univalue-path) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/guptakrish490/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/guptakrish490/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
