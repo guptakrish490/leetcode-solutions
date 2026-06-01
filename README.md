@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/guptakrish490/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/guptakrish490/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/guptakrish490/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0215-kth-largest-element-in-an-array](https://github.com/guptakrish490/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/guptakrish490/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/guptakrish490/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0654-maximum-binary-tree](https://github.com/guptakrish490/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/guptakrish490/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0147-insertion-sort-list](https://github.com/guptakrish490/leetcode-solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/guptakrish490/leetcode-solutions/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/guptakrish490/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/guptakrish490/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/guptakrish490/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## String
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/guptakrish490/leetcode-solutions/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/guptakrish490/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0654-maximum-binary-tree](https://github.com/guptakrish490/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
 ## Merge Sort
 |  |
@@ -282,4 +285,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/guptakrish490/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/guptakrish490/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/guptakrish490/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
