@@ -1,16 +1,13 @@
 class Solution {
 public:
     int minStoneSum(vector<int>& piles, int k) {
-        priority_queue<int> pq;
-
-        for (int pile : piles)
-            pq.push(pile);
+        priority_queue<int> pq(piles.begin(),piles.end());
 
         for (int i = 0; i < k; i++) {
             int maxi = pq.top();
             pq.pop();
 
-            maxi = maxi - floor((double)maxi / 2);
+            maxi = maxi - maxi / 2;
             pq.push(maxi);
         }
 
