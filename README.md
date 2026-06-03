@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/guptakrish490/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/guptakrish490/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/guptakrish490/leetcode-solutions/tree/master/1046-last-stone-weight) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/guptakrish490/leetcode-solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Hash Table
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/guptakrish490/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0502-ipo](https://github.com/guptakrish490/leetcode-solutions/tree/master/0502-ipo) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/guptakrish490/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/guptakrish490/leetcode-solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/guptakrish490/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/guptakrish490/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/guptakrish490/leetcode-solutions/tree/master/1046-last-stone-weight) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/guptakrish490/leetcode-solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Quickselect
 |  |
 | ------- |
