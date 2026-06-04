@@ -7,6 +7,7 @@ public:
         for(int i=0;i<profits.size();i++){
             minCapital.push({capital[i],profits[i]});
         }
+        
 
         for(int i=0;i<k;i++){
             while(!minCapital.empty() && minCapital.top().first<=w){
