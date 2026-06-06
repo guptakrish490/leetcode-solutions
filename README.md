@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/guptakrish490/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0655-print-binary-tree](https://github.com/guptakrish490/leetcode-solutions/tree/master/0655-print-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/guptakrish490/leetcode-solutions/tree/master/0687-longest-univalue-path) |
+| [0797-all-paths-from-source-to-target](https://github.com/guptakrish490/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0814-binary-tree-pruning](https://github.com/guptakrish490/leetcode-solutions/tree/master/0814-binary-tree-pruning) |
 | [0965-univalued-binary-tree](https://github.com/guptakrish490/leetcode-solutions/tree/master/0965-univalued-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/guptakrish490/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/guptakrish490/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/guptakrish490/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0655-print-binary-tree](https://github.com/guptakrish490/leetcode-solutions/tree/master/0655-print-binary-tree) |
+| [0797-all-paths-from-source-to-target](https://github.com/guptakrish490/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0965-univalued-binary-tree](https://github.com/guptakrish490/leetcode-solutions/tree/master/0965-univalued-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/guptakrish490/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/guptakrish490/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0113-path-sum-ii](https://github.com/guptakrish490/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/guptakrish490/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [0797-all-paths-from-source-to-target](https://github.com/guptakrish490/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -380,5 +383,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/guptakrish490/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0797-all-paths-from-source-to-target](https://github.com/guptakrish490/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/guptakrish490/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
