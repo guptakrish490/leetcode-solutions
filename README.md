@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/guptakrish490/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/guptakrish490/leetcode-solutions/tree/master/0547-number-of-provinces) |
 ## Two Pointers
 |  |
 | ------- |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/guptakrish490/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/guptakrish490/leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/guptakrish490/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/guptakrish490/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/guptakrish490/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/guptakrish490/leetcode-solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/guptakrish490/leetcode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/guptakrish490/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/guptakrish490/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/guptakrish490/leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
+| [0547-number-of-provinces](https://github.com/guptakrish490/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/guptakrish490/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0655-print-binary-tree](https://github.com/guptakrish490/leetcode-solutions/tree/master/0655-print-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/guptakrish490/leetcode-solutions/tree/master/0965-univalued-binary-tree) |
@@ -370,4 +373,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/guptakrish490/leetcode-solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/guptakrish490/leetcode-solutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
