@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/guptakrish490/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/guptakrish490/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/guptakrish490/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Two Pointers
 |  |
 | ------- |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0814-binary-tree-pruning](https://github.com/guptakrish490/leetcode-solutions/tree/master/0814-binary-tree-pruning) |
 | [0965-univalued-binary-tree](https://github.com/guptakrish490/leetcode-solutions/tree/master/0965-univalued-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/guptakrish490/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/guptakrish490/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0655-print-binary-tree](https://github.com/guptakrish490/leetcode-solutions/tree/master/0655-print-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/guptakrish490/leetcode-solutions/tree/master/0965-univalued-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/guptakrish490/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/guptakrish490/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## String Matching
 |  |
 | ------- |
@@ -377,4 +380,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/guptakrish490/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/guptakrish490/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
