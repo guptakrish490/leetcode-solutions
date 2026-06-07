@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void dfs(int r, int c, int& newColor, int& prevColor, vector<vector<int>>& image,
+    void dfs(int r, int c, int newColor, int prevColor, vector<vector<int>>& image,
              vector<vector<int>>& vis) {
 
         int m = image.size();
@@ -31,6 +31,8 @@ public:
         int prevColor=image[sr][sc];
 
         vector<vector<int>> vis(m, vector<int>(n, 0));
+        if (prevColor == color) return image;
+
         dfs(sr,sc,color,prevColor,image,vis);
 
         return image;
