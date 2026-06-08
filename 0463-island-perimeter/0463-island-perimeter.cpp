@@ -17,10 +17,10 @@ public:
             if (nr < 0 || nr >= m || nc < 0 || nc >= n) {
                 perimeter++;
             }
-            if (nr >= 0 && nr < m && nc >= 0 && nc < n && !grid[nr][nc]) {
+            else if (nr >= 0 && nr < m && nc >= 0 && nc < n && !grid[nr][nc]) {
                 perimeter++;
             }
-            if (nr >= 0 && nr < m && nc >= 0 && nc < n && !vis[nr][nc] &&
+            else if (nr >= 0 && nr < m && nc >= 0 && nc < n && !vis[nr][nc] &&
                 grid[nr][nc]) {
                 dfs(nr, nc, grid, vis, perimeter);
             }
