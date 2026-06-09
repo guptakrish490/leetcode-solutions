@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/guptakrish490/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/guptakrish490/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/guptakrish490/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/guptakrish490/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/guptakrish490/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/guptakrish490/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Sorting
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/guptakrish490/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/guptakrish490/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/guptakrish490/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/guptakrish490/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/guptakrish490/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/guptakrish490/leetcode-solutions/tree/master/0502-ipo) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/guptakrish490/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/guptakrish490/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/guptakrish490/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/guptakrish490/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0389-find-the-difference](https://github.com/guptakrish490/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0449-serialize-and-deserialize-bst](https://github.com/guptakrish490/leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/guptakrish490/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Prefix Sum
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/guptakrish490/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0389-find-the-difference](https://github.com/guptakrish490/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
