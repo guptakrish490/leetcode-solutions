@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/guptakrish490/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/guptakrish490/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/guptakrish490/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/guptakrish490/leetcode-solutions/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/guptakrish490/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/guptakrish490/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/guptakrish490/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/guptakrish490/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/guptakrish490/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/guptakrish490/leetcode-solutions/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/guptakrish490/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/guptakrish490/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/guptakrish490/leetcode-solutions/tree/master/0257-binary-tree-paths) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/guptakrish490/leetcode-solutions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/guptakrish490/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/guptakrish490/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/guptakrish490/leetcode-solutions/tree/master/0100-same-tree) |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/guptakrish490/leetcode-solutions/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/guptakrish490/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/guptakrish490/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0797-all-paths-from-source-to-target](https://github.com/guptakrish490/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
@@ -430,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/guptakrish490/leetcode-solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/guptakrish490/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/guptakrish490/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/guptakrish490/leetcode-solutions/tree/master/0542-01-matrix) |
