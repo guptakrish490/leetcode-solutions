@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/guptakrish490/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/guptakrish490/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0542-01-matrix](https://github.com/guptakrish490/leetcode-solutions/tree/master/0542-01-matrix) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/guptakrish490/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Stack
 |  |
 | ------- |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/guptakrish490/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/guptakrish490/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/guptakrish490/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/guptakrish490/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/guptakrish490/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0814-binary-tree-pruning](https://github.com/guptakrish490/leetcode-solutions/tree/master/0814-binary-tree-pruning) |
 | [0965-univalued-binary-tree](https://github.com/guptakrish490/leetcode-solutions/tree/master/0965-univalued-binary-tree) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/guptakrish490/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/guptakrish490/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/guptakrish490/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/guptakrish490/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/guptakrish490/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0965-univalued-binary-tree](https://github.com/guptakrish490/leetcode-solutions/tree/master/0965-univalued-binary-tree) |
 | [0994-rotting-oranges](https://github.com/guptakrish490/leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/guptakrish490/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/guptakrish490/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/guptakrish490/leetcode-solutions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/guptakrish490/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/guptakrish490/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/guptakrish490/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/guptakrish490/leetcode-solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
@@ -433,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/guptakrish490/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/guptakrish490/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/guptakrish490/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/guptakrish490/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/guptakrish490/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/guptakrish490/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
@@ -456,4 +461,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/guptakrish490/leetcode-solutions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/guptakrish490/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
