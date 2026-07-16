@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/guptakrish490/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/guptakrish490/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/guptakrish490/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/guptakrish490/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/guptakrish490/leetcode-solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2542-maximum-subsequence-score](https://github.com/guptakrish490/leetcode-solutions/tree/master/2542-maximum-subsequence-score) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/guptakrish490/leetcode-solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/guptakrish490/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/guptakrish490/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/guptakrish490/leetcode-solutions/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/guptakrish490/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/guptakrish490/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Two Pointers
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/guptakrish490/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0658-find-k-closest-elements](https://github.com/guptakrish490/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0875-koko-eating-bananas](https://github.com/guptakrish490/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [1631-path-with-minimum-effort](https://github.com/guptakrish490/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Greedy
 |  |
 | ------- |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/guptakrish490/leetcode-solutions/tree/master/0965-univalued-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/guptakrish490/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/guptakrish490/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/guptakrish490/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/guptakrish490/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -348,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/guptakrish490/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/guptakrish490/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/guptakrish490/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/guptakrish490/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/guptakrish490/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## String Matching
 |  |
@@ -393,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/guptakrish490/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/guptakrish490/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/guptakrish490/leetcode-solutions/tree/master/1046-last-stone-weight) |
+| [1631-path-with-minimum-effort](https://github.com/guptakrish490/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/guptakrish490/leetcode-solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2542-maximum-subsequence-score](https://github.com/guptakrish490/leetcode-solutions/tree/master/2542-maximum-subsequence-score) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/guptakrish490/leetcode-solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -452,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/guptakrish490/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/guptakrish490/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/guptakrish490/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/guptakrish490/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Topological Sort
 |  |
 | ------- |
