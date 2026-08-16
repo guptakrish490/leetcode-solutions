@@ -1,41 +1,79 @@
-class Solution {
+class DisjointSet {
 public:
-    void traverse(int i, vector<int>adj[], vector<int>& vis){
-        
-        vis[i]=1;
+    vector<int> rank, size, parent;
 
-        for(auto it:adj[i]){
-            if(!vis[it]){
-                traverse(it,adj,vis);
-            }
+    DisjointSet(int n) {
+        rank.resize(n + 1, 0);
+        size.resize(n + 1, 1);
+        parent.resize(n + 1);
+        for (int i = 0; i <= n; i++) {
+            parent[i] = i;
         }
     }
 
+    int findUPar(int node) {
+        if (parent[node] == node)
+            return node;
+        return parent[node] = findUPar(parent[node]);
+    }
 
+    void unionByRank(int u, int v) {
+        int ulp_u = findUPar(u);
+        int ulp_v = findUPar(v);
+        if (ulp_u == ulp_v)
+            return;
+
+        if (rank[ulp_u] < rank[ulp_v]) {
+            parent[ulp_u] = ulp_v;
+        }
+        else if(rank[ulp_u]>rank[ulp_v]){
+            parent[ulp_v] = ulp_u;
+        } else {
+            parent[ulp_v] = ulp_u;
+            rank[ulp_u]++;
+        }
+    }
+
+    void unionBySize(int u, int v) {
+        int ulp_u = findUPar(u);
+        int ulp_v = findUPar(v);
+        if (ulp_u == ulp_v)
+            return;
+
+        if (size[ulp_u] < size[ulp_v]) {
+            size[ulp_v] += size[ulp_u];
+            parent[ulp_u] = ulp_v;
+        } else {
+            size[ulp_u] += size[ulp_v];
+            parent[ulp_v] = ulp_u;
+        }
+    }
+};
+
+class Solution {
+public:
     int findCircleNum(vector<vector<int>>& isConnected) {
-        int n=isConnected.size();
-        
-        vector<int> adj[n];
+        // no. of seperate components find karna hai
+        // jitne seperate ultimate parents=no. of seperate components
 
-        for(int i=0;i<n;i++){
-            for(int j=0;j<n;j++){
-                if(isConnected[i][j]==1 && i!=j){
-                    adj[i].push_back(j);
+        int n = isConnected.size();
+        DisjointSet ds(n);
+
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                if (i != j && isConnected[i][j]) {
+                    ds.unionBySize(i + 1, j + 1);
                 }
             }
         }
 
-        vector<int>vis(n,0);
+        int provinces = 0;
 
-        int cnt=0;
-
-        for(int j=0;j<n;j++){
-            if(!vis[j]){
-                cnt++;
-                traverse(j,adj,vis);
-            }
+        for (int i = 1; i <= n; i++) {
+            if (ds.findUPar(i) == i)
+                provinces++;
         }
 
-        return cnt;
+        return provinces;
     }
 };
