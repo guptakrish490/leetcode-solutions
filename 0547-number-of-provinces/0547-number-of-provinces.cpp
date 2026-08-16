@@ -60,8 +60,8 @@ public:
         DisjointSet ds(n);
 
         for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                if (i != j && isConnected[i][j]) {
+            for (int j = i+1; j < n; j++) {
+                if (isConnected[i][j]) {
                     ds.unionBySize(i + 1, j + 1);
                 }
             }
