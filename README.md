@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/guptakrish490/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
 | [0658-find-k-closest-elements](https://github.com/guptakrish490/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/guptakrish490/leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/guptakrish490/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/guptakrish490/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/guptakrish490/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/guptakrish490/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/guptakrish490/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/guptakrish490/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/guptakrish490/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0721-accounts-merge](https://github.com/guptakrish490/leetcode-solutions/tree/master/0721-accounts-merge) |
 ## Sorting
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/guptakrish490/leetcode-solutions/tree/master/0502-ipo) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/guptakrish490/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/guptakrish490/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [0721-accounts-merge](https://github.com/guptakrish490/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0973-k-closest-points-to-origin](https://github.com/guptakrish490/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [2542-maximum-subsequence-score](https://github.com/guptakrish490/leetcode-solutions/tree/master/2542-maximum-subsequence-score) |
 ## String
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/guptakrish490/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0449-serialize-and-deserialize-bst](https://github.com/guptakrish490/leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/guptakrish490/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0721-accounts-merge](https://github.com/guptakrish490/leetcode-solutions/tree/master/0721-accounts-merge) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -123,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/guptakrish490/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/guptakrish490/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/guptakrish490/leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/guptakrish490/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/guptakrish490/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/guptakrish490/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/guptakrish490/leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -279,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0655-print-binary-tree](https://github.com/guptakrish490/leetcode-solutions/tree/master/0655-print-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/guptakrish490/leetcode-solutions/tree/master/0687-longest-univalue-path) |
 | [0695-max-area-of-island](https://github.com/guptakrish490/leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/guptakrish490/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/guptakrish490/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/guptakrish490/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/guptakrish490/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
@@ -345,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/guptakrish490/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0655-print-binary-tree](https://github.com/guptakrish490/leetcode-solutions/tree/master/0655-print-binary-tree) |
 | [0695-max-area-of-island](https://github.com/guptakrish490/leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/guptakrish490/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/guptakrish490/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/guptakrish490/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/guptakrish490/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
