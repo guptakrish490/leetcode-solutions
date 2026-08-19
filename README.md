@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/guptakrish490/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/guptakrish490/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/guptakrish490/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0827-making-a-large-island](https://github.com/guptakrish490/leetcode-solutions/tree/master/0827-making-a-large-island) |
 | [0875-koko-eating-bananas](https://github.com/guptakrish490/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/guptakrish490/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/guptakrish490/leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/guptakrish490/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/guptakrish490/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/guptakrish490/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+| [0827-making-a-large-island](https://github.com/guptakrish490/leetcode-solutions/tree/master/0827-making-a-large-island) |
 | [1020-number-of-enclaves](https://github.com/guptakrish490/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/guptakrish490/leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/guptakrish490/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/guptakrish490/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/guptakrish490/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0814-binary-tree-pruning](https://github.com/guptakrish490/leetcode-solutions/tree/master/0814-binary-tree-pruning) |
+| [0827-making-a-large-island](https://github.com/guptakrish490/leetcode-solutions/tree/master/0827-making-a-large-island) |
 | [0965-univalued-binary-tree](https://github.com/guptakrish490/leetcode-solutions/tree/master/0965-univalued-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/guptakrish490/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/guptakrish490/leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/guptakrish490/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/guptakrish490/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/guptakrish490/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
+| [0827-making-a-large-island](https://github.com/guptakrish490/leetcode-solutions/tree/master/0827-making-a-large-island) |
 | [0965-univalued-binary-tree](https://github.com/guptakrish490/leetcode-solutions/tree/master/0965-univalued-binary-tree) |
 | [0994-rotting-oranges](https://github.com/guptakrish490/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/guptakrish490/leetcode-solutions/tree/master/1020-number-of-enclaves) |
@@ -468,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/guptakrish490/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/guptakrish490/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/guptakrish490/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0827-making-a-large-island](https://github.com/guptakrish490/leetcode-solutions/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/guptakrish490/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/guptakrish490/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/guptakrish490/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
