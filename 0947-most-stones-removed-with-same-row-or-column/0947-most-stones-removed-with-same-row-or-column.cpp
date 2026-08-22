@@ -17,7 +17,7 @@ public:
         return parent[i] = findUPar(parent[i]);
     }
 
-    void unionBySize(int u, int v) { // u & v are indices
+    void unionNode(int u, int v) { // u & v are indices
         int pu = findUPar(u);
         int pv = findUPar(v);
 
@@ -51,10 +51,10 @@ public:
             int y = stones[i][1];
 
             for (auto& r : rowMap[x]) {
-                ds.unionBySize(i, r);
+                ds.unionNode(i, r);
             }
             for (auto& c : colMap[y]) {
-                ds.unionBySize(i, c);
+                ds.unionNode(i, c);
             }
         }
 
