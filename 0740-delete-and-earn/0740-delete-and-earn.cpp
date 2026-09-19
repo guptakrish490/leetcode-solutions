@@ -1,3 +1,5 @@
+#pragma GCC optimize("Ofast")
+
 class Solution {
 public:
     int deleteAndEarn(vector<int>& nums) {
@@ -13,8 +15,8 @@ public:
 
         for (int i = 2; i <= sz; i++) {
             int curr = max(scores[i] * i + prev2, prev);
-            prev2=prev;
-            prev=curr;
+            prev2 = prev;
+            prev = curr;
         }
 
         return prev;
