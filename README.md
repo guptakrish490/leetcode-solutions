@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/guptakrish490/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/guptakrish490/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/guptakrish490/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/guptakrish490/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/guptakrish490/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/guptakrish490/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/guptakrish490/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0973-k-closest-points-to-origin](https://github.com/guptakrish490/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/guptakrish490/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
@@ -526,4 +528,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/guptakrish490/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/guptakrish490/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/guptakrish490/leetcode-solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
