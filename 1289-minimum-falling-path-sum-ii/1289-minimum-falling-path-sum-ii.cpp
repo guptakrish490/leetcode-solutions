@@ -1,31 +1,63 @@
 class Solution {
 public:
-    int f(int i, int j, vector<vector<int>>& grid, vector<vector<int>>& dp) {
-        int n = grid.size();
+    int secondMini(vector<int>& arr, int minIdx) {
+        int n = arr.size();
 
-        if (j < 0 || j >= n)
-            return 1e9;
-        if (i == 0)
-            return grid[i][j];
-        if (dp[i][j] != -1)
-            return dp[i][j];
+        int firstMin = 1e9;
 
-        int minPath = 1e9;
-        for (int k = 0; k < n; k++) {
-            if(k==j) continue;
-            minPath = min(minPath, f(i - 1, k, grid, dp));
+        for (int i = 0; i < n; i++) {
+            if (arr[i] < firstMin) {
+                firstMin = arr[i];
+                minIdx = i;
+            }
         }
 
-        return dp[i][j] = grid[i][j] + minPath;
+        int secondMin = 1e9;
+
+        for (int j = 0; j < n; j++) {
+            if (j == minIdx)
+                continue;
+            secondMin = min(secondMin, arr[j]);
+        }
+
+        return secondMin;
     }
 
     int minFallingPathSum(vector<vector<int>>& grid) {
         int n = grid.size();
         vector<vector<int>> dp(n, vector<int>(n, -1));
 
+        for (int i = 0; i < n; i++) {
+            dp[0][i] = grid[0][i];
+        }
+
         int minPathSum = 1e9;
-        for (int j = 0; j < n; j++) {
-            minPathSum = min(minPathSum, f(n - 1, j, grid, dp));
+
+        for (int i = 1; i < n; i++) {
+            int min1 = INT_MAX, min2 = INT_MAX, minIdx = -1;
+
+            for (int j = 0; j < n; j++) {
+                if (dp[i - 1][j] < min1) {
+                    min2 = min1;
+                    min1 = dp[i - 1][j];
+                    minIdx = j;
+                } else if (dp[i - 1][j] < min2) {
+                    min2 = dp[i - 1][j];
+                }
+            }
+
+            for (int j = 0; j < n; j++) {
+                if (minIdx == j)
+                    dp[i][j] = min2;
+                else
+                    dp[i][j] = min1;
+
+                dp[i][j] += grid[i][j];
+            }
+        }
+
+        for (int i = 0; i < n; i++) {
+            minPathSum = min(minPathSum, dp[n - 1][i]);
         }
 
         return minPathSum;
