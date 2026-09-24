@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/guptakrish490/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/guptakrish490/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/guptakrish490/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/guptakrish490/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0463-island-perimeter](https://github.com/guptakrish490/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0502-ipo](https://github.com/guptakrish490/leetcode-solutions/tree/master/0502-ipo) |
 | [0542-01-matrix](https://github.com/guptakrish490/leetcode-solutions/tree/master/0542-01-matrix) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/guptakrish490/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/guptakrish490/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/guptakrish490/leetcode-solutions/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/guptakrish490/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/guptakrish490/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0740-delete-and-earn](https://github.com/guptakrish490/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/guptakrish490/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -544,4 +546,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/guptakrish490/leetcode-solutions/tree/master/0062-unique-paths) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/guptakrish490/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/guptakrish490/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
