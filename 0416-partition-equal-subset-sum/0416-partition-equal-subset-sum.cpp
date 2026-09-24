@@ -29,8 +29,26 @@ public:
         if (totalSum % 2 == 1)
             return false;
 
-        vector<vector<int>> dp(n, vector<int>(totalSum / 2 + 1, -1));
+        int target = totalSum / 2;
 
-        return f(n - 1, totalSum / 2, nums, dp);
+        vector<vector<bool>> dp(n, vector<bool>(totalSum / 2 + 1, false));
+        for (int i = 1; i < n; i++) {
+            dp[i][0] = true;
+        }
+
+        if (nums[0] <= target)
+            dp[0][nums[0]] = true;
+
+        for (int i = 1; i < n; i++) {
+            for (int t = 1; t <= target; t++) {
+                bool notTake = dp[i - 1][t];
+                bool take = false;
+                if (nums[i] <= t)
+                    take = dp[i - 1][t - nums[i]];
+                dp[i][t] = take || notTake;
+            }
+        }
+
+        return dp[n - 1][target];
     }
 };
