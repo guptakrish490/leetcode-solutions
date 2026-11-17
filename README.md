@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/guptakrish490/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0502-ipo](https://github.com/guptakrish490/leetcode-solutions/tree/master/0502-ipo) |
 | [0542-01-matrix](https://github.com/guptakrish490/leetcode-solutions/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/guptakrish490/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/guptakrish490/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0654-maximum-binary-tree](https://github.com/guptakrish490/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
 | [0658-find-k-closest-elements](https://github.com/guptakrish490/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/guptakrish490/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/guptakrish490/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/guptakrish490/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/guptakrish490/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/guptakrish490/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0721-accounts-merge](https://github.com/guptakrish490/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/guptakrish490/leetcode-solutions/tree/master/0740-delete-and-earn) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/guptakrish490/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/guptakrish490/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Union-Find
 |  |
 | ------- |
